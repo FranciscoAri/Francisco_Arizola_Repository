@@ -1,2 +1,2 @@
-# Causal_Machine_Learning
-This is a course where we relate causal inference and machine learning
+# Francisco Arizola Repository
+In this repository you may find all my coding projects in Python, R Studio, and Julia. Feel free to explore!
